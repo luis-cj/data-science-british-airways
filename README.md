@@ -14,7 +14,7 @@ The main topics covered in this project are:
 British Airways requires to analyse customer satisfaction with their flights experience in order to know how they can improve their service. Moreover, it is required to build a machine learning model to predict customer behaviour towards booking flights with them.
 
 <p align="center">
-  <img width="500" height="500" src="https://github.com/luis-cj/data-science-solar-power-plant/blob/main/images/plant2.gif">
+  <img width="480" height="270" src="https://github.com/luis-cj/data-science-british-airways/blob/main/images/airplane-gif.gif">
 </p>
 
 
