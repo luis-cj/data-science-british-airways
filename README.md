@@ -1,4 +1,4 @@
-# Data science project: customer satisfaction analysis and customer buying prediction (classification problem) (UNFINISHED)
+# Data science project: British Airways customer satisfaction analysis and customer buying prediction (classification problem) (UNFINISHED)
 Data science project as part of the British Airways data science virtual programme, where it is required to analyse customer satisfaction and build predictive models.
 
 This is a **machine learning project**, where the main goal is to explore the data sources, check hypotheses and find out new patterns and insights relevant for the business , as well as developing machine learning models.
