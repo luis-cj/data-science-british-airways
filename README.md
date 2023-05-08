@@ -105,7 +105,8 @@ This final phase aims to deliver a simple, easy-to-use production code that call
 This part includes:
 
 - Pre-production code: building the pipelines for the final deployment/execution code.
-- Re-trainig
+- Re-training code: to keep the model up to date by training it again after a certain period of time.
+- Deployment code: it makes use of the pipelines built during the pre-production phase. It allows the model to be executed in a batch process, API or web app.
 
 Model deployment can be checked in the following Jupyter Notebooks:
 
@@ -117,3 +118,4 @@ For this project a report was generated in the format of a PowerPoint presentati
 The report can be checked in the following file:
 
 ### BONUS: Lessons learnt
+
