@@ -89,16 +89,30 @@ EDA can be checked in the following Jupyter Notebook:
 
 
 ### 5. Data transformation (Feature Engineering)
-All variables that are going to be used in the machine learning model need to be prepared for that task. Here, any new variables relevant for the problem might be created. Also, a first feature selection is carried out. Finally,
+All variables that are going to be used in the machine learning model need to be prepared for that task. Here, any new variables relevant for the problem might be created. Also, a first feature selection is carried out. Finally, different class balancing methods can be evaluated to check whether they're necessary or not.
+
+Data transformation can be checked in the following Jupyter Notebook:
 
 
-### 6. Model selection and training
+### 6. Model selection and evaluation
+Hyperparameter tuning is applied by using Random Search with different classification algorithms. As so, multiple models are trained using a training set of the transformed data through cross-validation techniques. 
 
-### 7. Model evaluation
+Model selection and evaluation can be checked in the following Jupyter Notebook:
 
-### 8. Model deployment
+### 7. Model deployment
+This final phase aims to deliver a simple, easy-to-use production code that calls a pipeline object able to process any new dataset and complete all the tasks done through the entire project (data cleaning, transformation and final use of the selected optimized machine learning algorithm).
 
-### 9. Communication
+This part includes:
+
+- Pre-production code: building the pipelines for the final deployment/execution code.
+- Re-trainig
+
+Model deployment can be checked in the following Jupyter Notebooks:
+
+
+
+
+### 8. Communication
 For this project a report was generated in the format of a PowerPoint presentation. It was a requirement to sum up all the insights in a single slide.
 The report can be checked in the following file:
 
