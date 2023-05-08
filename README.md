@@ -66,8 +66,40 @@ The report can be checked in the following file:
 
 - **Customer reviews are biased**: customers that post reviews usually do it to complain. This fact leads to biased reviews towards lower customer satisfaction. Ideally, all type of customers (happy and unhappy) should provide reviews in order to avoid that bias, and that's usually not possible in real business environments.
 
-## Task 2: Predicting customer buying behaviour (machine learning project)
+## Task 2: Predicting customer buying behaviour (binary classification machine learning project)
 
 ### 1. Objective
 Build a predictive model to understand the factors that influence buying behaviour of customers.
 
+### 2. Data collection
+Data is provided by British Airways and it contains information about every transaction taking place at their website, where the target variable is the customer booking a flight or not (0 or 1).
+
+The data file is a .csv file.
+
+### 3. Data cleaning
+This part involves checking data types and general data quality. The main steps in this phase are cleaning and processing data from missing values and outliers that the original dataset may contain.
+
+Data cleaning can be checked in the following Jupyter Notebook:
+
+
+### 4. Exploratory Data Analysis (EDA)
+A statistical and graphical analysis of the data allows further understanding of the data and the business problem. 
+
+EDA can be checked in the following Jupyter Notebook:
+
+
+### 5. Data transformation (Feature Engineering)
+All variables that are going to be used in the machine learning model need to be prepared for that task. Here, any new variables relevant for the problem might be created. Also, a first feature selection is carried out. Finally,
+
+
+### 6. Model selection and training
+
+### 7. Model evaluation
+
+### 8. Model deployment
+
+### 9. Communication
+For this project a report was generated in the format of a PowerPoint presentation. It was a requirement to sum up all the insights in a single slide.
+The report can be checked in the following file:
+
+### BONUS: Lessons learnt
