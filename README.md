@@ -9,6 +9,7 @@ The main topics covered in this project are:
 - Data visualisation
 - Natural Language Processing (NLP)
 - Classification machine learning models
+- Feature importance
 
 
 ## Context
@@ -19,7 +20,7 @@ British Airways requires to analyse customer satisfaction with their flights exp
 </p>
 
 
-## Task 1: Gain customer insights
+## Task 1: Gain customer insights (discovery project)
 
 ### 1. Objective
 Analyse the customer satisfaction by collecting data from a third-party customer review provider and gain insights to improve service quality.
@@ -41,7 +42,7 @@ There are more types of reviews (e.g. seat reviews, lounge reviews) but for this
 ### 4. Entities and data
 The relevant entity we can retrieve data from in order to accomplish our objective is the following:
 
-- Customer review service provider: about 10 years of customer reviews from the [Skytrax](https://www.airlinequality.com/airline-reviews/british-airways) website 
+- Customer review service provider: about 10 years of customer reviews from the [Skytrax](https://www.airlinequality.com/airline-reviews/british-airways) website. 
 
 ### 5. Seed questions
 These are the first questions we need to start finding relevant insights. Different questions apply to each lever. In this case
@@ -63,7 +64,9 @@ The report can be checked in the following file:
 
 ### BONUS: Lessons learnt
 
-## Task 2: Predicting customer buying behaviour
+- **Customer reviews are biased**: customers that post reviews usually do it to complain. This fact leads to biased reviews towards lower customer satisfaction. Ideally, all type of customers (happy and unhappy) should provide reviews in order to avoid that bias, and that's usually not possible in real business environments.
+
+## Task 2: Predicting customer buying behaviour (machine learning project)
 
 ### 1. Objective
 Build a predictive model to understand the factors that influence buying behaviour of customers.
