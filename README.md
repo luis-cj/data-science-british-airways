@@ -117,9 +117,11 @@ This part includes:
 
 Model deployment can be checked in the following Jupyter Notebooks:
 
-[Pre-production code](https://github.com/luis-cj/data-science-british-airways/blob/main/Task2_preproduction.ipynb)
-[Re-training code](https://github.com/luis-cj/data-science-british-airways/blob/main/Task2_retraining.ipynb)
-[Deployment code](https://github.com/luis-cj/data-science-british-airways/blob/main/Task2_production.ipynb)
+- [Pre-production code](https://github.com/luis-cj/data-science-british-airways/blob/main/Task2_preproduction.ipynb)
+
+- [Re-training code](https://github.com/luis-cj/data-science-british-airways/blob/main/Task2_retraining.ipynb)
+
+- [Deployment code](https://github.com/luis-cj/data-science-british-airways/blob/main/Task2_production.ipynb)
 
 ### 8. Communication
 For this project a report was generated in the format of a PowerPoint presentation. It was a requirement to sum up all the insights in a single slide.
