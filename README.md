@@ -73,6 +73,8 @@ The report can be checked in the following file:
 ### 1. Objective
 Build a predictive model to understand the factors that influence buying behaviour of customers. This is answering to the question, what are the most relevant features that influence a customer booking a flight with British Airways?
 
+As so, the original project requirement was not to build and deploy a classification machine learning algorithm but only unveil what are the key features that influence a customer actually booking a flight with the airline. As a complementary task, the whole system deployment is presented as it would take place in a real business application.
+
 ### 2. Data collection
 Data is provided by British Airways and it contains information about every transaction taking place at their website, where the target variable is the customer booking a flight or not (0 or 1).
 
