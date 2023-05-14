@@ -71,7 +71,7 @@ The report can be checked in the following file:
 ## Task 2: Predicting customer buying behaviour (binary classification machine learning project)
 
 ### 1. Objective
-Build a predictive model to understand the factors that influence buying behaviour of customers.
+Build a predictive model to understand the factors that influence buying behaviour of customers. This is answering to the question, what are the most relevant features that influence a customer booking a flight with British Airways?
 
 ### 2. Data collection
 Data is provided by British Airways and it contains information about every transaction taking place at their website, where the target variable is the customer booking a flight or not (0 or 1).
