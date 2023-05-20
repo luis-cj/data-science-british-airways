@@ -1,4 +1,4 @@
-# Data science project: British Airways experience (UNFINISHED)
+# Data science project: British Airways experience (IN PROGRESS)
 Data science project as part of the British Airways data science virtual programme, where it is required to analyse customer satisfaction and build predictive models.
 
 This is a virtual experience programme that includes differents tasks, such a exploring data sources and finding out new patterns and insights relevant for the business, as well as developing machine learning models.
