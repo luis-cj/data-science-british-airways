@@ -85,28 +85,33 @@ This part involves checking data types and general data quality. The main steps 
 
 Data cleaning can be checked in the following Jupyter Notebook:
 
-[Data cleaninig](https://github.com/luis-cj/data-science-british-airways/blob/main/Task2_data_cleaning.ipynb)
+[Data cleaninig](https://github.com/luis-cj/data-science-british-airways/blob/main/1_Task2_data_cleaning.ipynb)
 
 ### 4. Exploratory Data Analysis (EDA)
 A statistical and graphical analysis of the data allows further understanding of the data and the business problem. 
 
 EDA can be checked in the following Jupyter Notebook:
 
-[EDA](https://github.com/luis-cj/data-science-british-airways/blob/main/Task2_EDA.ipynb)
+[EDA](https://github.com/luis-cj/data-science-british-airways/blob/main/2_Task2_EDA.ipynb)
 
 ### 5. Data transformation (Feature Engineering)
 All variables that are going to be used in the machine learning model need to be prepared for that task. Here, any new variables relevant for the problem might be created. Also, a first feature selection is carried out. Finally, different class balancing methods can be evaluated to check whether they're necessary or not.
 
-Data transformation can be checked in the following Jupyter Notebook:
+Data transformation can be checked in the following Jupyter Notebooks:
 
-[Data transformation](https://github.com/luis-cj/data-science-british-airways/blob/main/Task2_data_transformation.ipynb)
+[Data transformation](https://github.com/luis-cj/data-science-british-airways/blob/main/3_Task2_data_transformation.ipynb)
+
+[Feature selection](https://github.com/luis-cj/data-science-british-airways/blob/main/4_Task2_feature_selection.ipynb)
+
+[Data balancing](https://github.com/luis-cj/data-science-british-airways/blob/main/5_Task2_data_balancing.ipynb)
+
 
 ### 6. Model selection and evaluation
 Hyperparameter tuning is applied by using Random Search with different classification algorithms. As so, multiple models are trained using a training set of the transformed data through cross-validation techniques. 
 
 Model selection and evaluation can be checked in the following Jupyter Notebook:
 
-[Model selection and evaluation](https://github.com/luis-cj/data-science-british-airways/blob/main/Task2_modeling.ipynb)
+[Model selection and evaluation](https://github.com/luis-cj/data-science-british-airways/blob/main/6_Task2_modeling.ipynb)
 
 ### 7. Model deployment
 This final phase aims to deliver a simple, easy-to-use production code that calls a pipeline object able to process any new dataset and complete all the tasks done through the entire project (data cleaning, transformation and final use of the selected optimized machine learning algorithm).
@@ -119,11 +124,11 @@ This part includes:
 
 Model deployment can be checked in the following Jupyter Notebooks:
 
-- [Pre-production code](https://github.com/luis-cj/data-science-british-airways/blob/main/Task2_preproduction.ipynb)
+- [Pre-production code](https://github.com/luis-cj/data-science-british-airways/blob/main/7_Task2_preproduction.ipynb)
 
-- [Re-training code](https://github.com/luis-cj/data-science-british-airways/blob/main/Task2_retraining.ipynb)
+- [Re-training code](https://github.com/luis-cj/data-science-british-airways/blob/main/8_Task2_retraining.ipynb)
 
-- [Deployment code](https://github.com/luis-cj/data-science-british-airways/blob/main/Task2_production.ipynb)
+- [Deployment code](https://github.com/luis-cj/data-science-british-airways/blob/main/9_Task2_production.ipynb)
 
 ### 8. Communication
 For this project a report was generated in the format of a PowerPoint presentation. It was a requirement to sum up all the insights in a single slide.
