@@ -56,7 +56,7 @@ About airline reviews:
 ### 6. Analysis and insights
 All the analysis is carried out in the following Jupyter Notebook (Python):
 
-[Task 1 Web scraping](https://github.com/luis-cj/data-science-british-airways/blob/main/Task1.ipynb)
+[Task 1 Web scraping](https://github.com/luis-cj/data-science-british-airways/blob/main/0_Task1.ipynb)
 
 ### 7. Communication
 For this project a report was generated in the format of a PowerPoint presentation. It was a requirement to sum up all the insights in a **single slide**.
