@@ -134,7 +134,7 @@ Model deployment can be checked in the following Jupyter Notebooks:
 For this project a report was generated in the format of a PowerPoint presentation. It was a requirement to sum up all the insights in a **single slide**.
 The report can be checked in the following file:
 
-[PowerPoint presentation](https://github.com/luis-cj/data-science-british-airways/blob/main/Task%202%20Customer%20Behaviour.pptx)
+[PowerPoint presentation](https://github.com/luis-cj/data-science-british-airways/blob/main/Task%202%20Customer%20behaviour.pptx)
 
 ### BONUS: Lessons learnt
 
