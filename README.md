@@ -1,4 +1,4 @@
-# Data science project: British Airways experience (IN PROGRESS)
+# Data science project: British Airways experience
 Data science project as part of the British Airways data science virtual programme, where it is required to analyse customer satisfaction and build predictive models.
 
 This is a virtual experience programme that includes differents tasks, such a exploring data sources and finding out new patterns and insights relevant for the business, as well as developing machine learning models.
@@ -138,3 +138,4 @@ The report can be checked in the following file:
 
 ### BONUS: Lessons learnt
 
+- **Feature selection is an experimental process**: there are many different techniques for selecting important features and they may not deliver the same output. That's why it is necessary to apply an iterative/experimental procedure with feature selection methods and data transformation. Also, different business problems will require different methodologies (there's no magic formula for that!).
